@@ -5,7 +5,7 @@ The goal of these notebooks was to learn and practice core Python functions comm
 
 Each file is a mini project, focusing on a different concept or library. These are not polished, large-scale projects—rather, they are snapshots of my learning journey as I built confidence working with Python in real-world data contexts.
 
-📂 Project Highlights
+## 📂 Project Highlights
 
 Data Analytics & Cleaning
 
@@ -41,7 +41,7 @@ Python_Systematic_Web_Scraping.ipynb → Scaling up scraping workflows
 
 Python_NPS_And_Books_XPath_Scraping.ipynb → Scraping structured content with XPath
 
-🚀 Purpose
+## 🚀 Purpose
 
 To demonstrate my hands-on learning with Python libraries (NumPy, Pandas, Polars, Matplotlib, GeoPandas, BeautifulSoup).
 
@@ -49,7 +49,7 @@ To show a breadth of topics I explored while learning analytics, data cleaning, 
 
 To serve as a reference collection for myself and others who are beginning their journey in Python data analytics.
 
-⚠️ Note
+## ⚠️ Note
 
 These are mini projects for learning purposes.
 They are not optimized for production, but they reflect my progression and curiosity as I developed as a data analytics student.
